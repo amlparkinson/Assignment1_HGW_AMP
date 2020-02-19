@@ -1,0 +1,16 @@
+---
+title: "dataframe for global_dNNdt"
+author: "Hannah Garcia-Wickstrum & Anne-Marie Parkinson"
+date: "2/19/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+# set dataframe
+nsample = 100
+education_data = rnorm
+```

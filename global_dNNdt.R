@@ -27,3 +27,5 @@ global_dNNdt = function(education_variable, kcal_variable, hiv_variable, gdp_var
   result = intercept + (education*education_variable) + (kcal*kcal_variable) + (gdp*gdp_variable) + (hiv*hiv_variable)
   return(result)
 } 
+
+global_dNNdt(10, 12000, 5, 7000)

@@ -27,8 +27,3 @@ global_dNNdt = function(education_variable, kcal_variable, hiv_variable, gdp_var
   result = intercept + (education*education_variable) + (kcal*kcal_variable) + (gdp*gdp_variable) + (hiv*hiv_variable)
   return(result)
 } 
-
-global_dNNdt(15, 12000, 10, 10000)
-
-# Create a data frame
-nsample = 100 

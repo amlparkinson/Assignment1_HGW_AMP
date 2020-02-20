@@ -12,5 +12,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```{r}
 # set dataframe
 nsample = 100
-education_data = rnorm
+education_data = rnorm(mean=3, sd=2, n=nsample)
+
+# Don't really know what i'm doing... HALP
 ```

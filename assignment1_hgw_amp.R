@@ -1,4 +1,4 @@
-# Assignment 1 - Hannah Garcia-Wickstrum & Anne-Marie Parkinson
+# Assignment 1 - Hannah Garcia-Wickstrum & Anne-Marie Parkinson hi
 
 # This function determines global per capita growth rate based on average years of education completed, average daily kilocalorie intake per capita, HIV percent prevalence, and the gross domestic product.
 
